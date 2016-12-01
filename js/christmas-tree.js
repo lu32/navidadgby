@@ -1,5 +1,5 @@
 let section = document.querySelector('.automaton')
-for (let i = 1; i < 30; i++) {
+for (let i = 1; i < 55; i++) {
     let row = document.createElement('div')
     row.classList.add('row')
 
